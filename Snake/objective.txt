@@ -1,0 +1,6 @@
+ppt
+food not in body --
+speed from user 	
+start button  --
+store score  --
+give Highscore --
